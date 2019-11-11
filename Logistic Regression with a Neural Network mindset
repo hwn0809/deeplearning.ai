@@ -1,5 +1,5 @@
 <div class="text-blue mb-2">
-    .def
+  .def
 
 import numpy as np
 import matplotlib.pyplot as plt
