@@ -1,3 +1,6 @@
+<div class="text-blue mb-2">
+    .def
+
 import numpy as np
 import matplotlib.pyplot as plt
 import h5py
@@ -387,7 +390,7 @@ legend = plt.legend(loc='upper center', shadow=True)
 frame = legend.get_frame()
 frame.set_facecolor('0.90')
 plt.show()
-
+</div>
 
 
 
